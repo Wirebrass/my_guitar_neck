@@ -6,6 +6,8 @@
 
 It's a dirty python program to guess the name of the notes on a guitar neck!
 
+![Guitar neck demo](my_guitar_neck_demo_01.gif)
+
 ### Launching
 
 ```bash
